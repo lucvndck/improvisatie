@@ -1,1 +1,59 @@
-
+@font-face {
+	font-family: Hermes;
+	src: url(/assets/fonts/Hermes.ttf);
+}
+:root {
+	/* COLORS */
+	
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-size: 18px;
+	font-family: "Helvetica Neue", sans-serif;
+	font-weight: 400;
+	min-height: 100vh;
+	position: relative;
+}
+main {
+	display: grid;
+	grid-template-columns: 27% 73%;
+	min-height: 500px;
+}
+.content {
+	margin-right: 5vw;
+}
+aside {
+	margin-left: 5vw;
+	margin-right: 27px;
+	background-color: #fafafa;
+}
+nav {
+	margin: 16px 0;
+	a:hover {
+		color: crimson;
+	}
+}
+a {
+	text-decoration: none;
+	color: #888;
+	padding-right: 15px;
+}
+a:hover {
+	color: #000;
+}
+p {
+	line-height: 1.4;
+	padding-bottom: 12px;
+}
+.navigation {
+	padding-left: 5vw;
+	margin-bottom: 26px;
+	width: 90vw;
+	display: flex;
+	justify-content: space-between;
+	-ms-align-items: flex-end;
+	align-items: flex-end;
+}
