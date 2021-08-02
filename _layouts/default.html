@@ -6,23 +6,23 @@
 	<link rel="stylesheet" href="/assets/css/styles.css">
 </head>
 <body>
-	
+
 	{% include navigation.html %}
 
 	<main>
-		
+
 		{% include aside.html %}
-		
+
 		<div class="content">
-	
+
 			{{ content | markdownify | no-escape }}
 		</div>
-		
+
 	</main>
-	
+
 	{% include footer.html %}
-	
-	
-	
+
+
+
 </body>
 </html>

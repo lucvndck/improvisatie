@@ -42,7 +42,7 @@ footer { position: relative; bottom: 0; left: 0; margin: 5vw; width: 90vw; displ
 
 .posts a:hover { color: #777; }
 
-.post-h2 { font-size: 6.3em; }
+.post-h2 { font-size: 6.3em; overflow: visible; }
 
 /* POST-HEADER LEFT*/
 .post-header { height: 113px; margin-top: -10px; display: flex; justify-content: space-between; -ms-align-items: flex-start; align-items: flex-start; position: relative; }
