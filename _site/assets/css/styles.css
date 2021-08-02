@@ -38,7 +38,7 @@ footer { position: relative; bottom: 0; left: 0; margin: 5vw; width: 90vw; displ
 /* POST STYLES */
 .posts p { margin-top: -18px; font-weight: 300; }
 
-.posts a { color: #000; transition: all .2s; }
+.posts a { color: #000; transition: color .2s; }
 
 .posts a:hover { color: #777; }
 
@@ -96,7 +96,7 @@ footer { position: relative; bottom: 0; left: 0; margin: 5vw; width: 90vw; displ
 
 ul { list-style-type: none; }
 
-h4 a.black { color: #888; transition: all .3s; }
+h4 a.black { color: #888; transition: color .3s; }
 
 h4 a.black:hover { color: crimson; }
 
