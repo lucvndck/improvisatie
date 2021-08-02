@@ -1,0 +1,30 @@
+/* TOOLS EN BROWSER DEFAULT AVERRIDES */
+.black {
+	color: #000;
+}
+.red {
+	color: crimson;
+}
+ul {
+	list-style-type: none;
+}
+h4 a.black {
+	color: #888;
+	transition: all .3s;
+}
+h4 a.black:hover {
+	color: crimson;
+}
+.center {
+	text-align: center;
+}
+.row {
+	width: 90vw;
+	margin: 0 auto;
+}
+.small-h2 {
+	font-size: 1.6em;
+}
+.uppercase {
+	text-transform: uppercase;
+}

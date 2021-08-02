@@ -1,1 +1,129 @@
-
+/* POST STYLES */
+.posts p {
+	margin-top: -18px;
+	font-weight: 300;
+}
+.posts a {
+	color: #000;
+	transition: all .2s;
+}
+.posts a:hover {
+	color: #777;
+}
+.post-h2 {
+	font-size: 6.3em;
+}
+/* POST-HEADER LEFT*/
+.post-header {
+	height: 113px;
+	margin-top: -10px;
+	display: flex;
+	justify-content: space-between;
+	-ms-align-items: flex-start;
+	align-items: flex-start;
+	position: relative;
+	&__left {
+		writing-mode: vertical-rl;
+		transform: rotate(-180deg);
+		position: absolute;
+		left: 0;
+		top: 0;
+		flex: 1;
+		h5 {
+/*			line-height: 2.2;*/
+			color: #aaa;
+			padding-bottom: 5px;
+		}
+	}
+	&__mid-left {
+		padding-top: 7px;
+		padding-left: 42px;
+		text-align: left;
+		flex: 5;
+		p {
+			line-height: .8;
+			font-weight: 300;
+			color: #666;
+			font-style: italic;
+		}
+	}
+}
+/* POST-HEADER RIGHT*/
+.post-header {
+	&__right {
+		writing-mode: vertical-rl;
+		position: absolute;
+		right: 0;
+		top: 0;
+		flex: 1;
+		h5 {
+/*			line-height: 2.2;*/
+			color: #aaa;
+			padding-top: 5px;
+		}
+	}
+	&__mid-right {
+		padding-top: 7px;
+		padding-right: 42px;
+		text-align: right;
+		flex: 5;
+		p {
+			line-height: .8;
+			font-weight: 300;
+			color: #666;
+			font-style: italic;
+		}
+	}
+}
+/* WOORD VOORAF */
+.woord-vooraf {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 12px;
+	margin-bottom: 20px;
+}
+.uitleg {
+	width: 47%;
+	border-left: 1px solid #000;
+	background-color: #f6f6f6;
+	padding: 8px;
+	h5 {
+		padding-bottom: 10px;
+	}
+	p {
+		font-weight: 300;
+		br {
+		  content: "";
+		  margin: 2em;
+		  display: block;
+		  font-size: 24%;
+		}
+	}
+}
+.doel {
+	width: 47%;
+	border-left: 1px solid #000;
+	background-color: #f6f6f6;
+	padding: 8px;
+	h5 {
+		padding-bottom: 10px;
+	}
+	p {
+		font-weight: 300;
+		br {
+		  content: "";
+		  margin: 2em;
+		  display: block;
+		  font-size: 24%;
+		}
+	}
+}
+.post-content p {
+	font-weight: 300;
+}
+.post-content h3 {
+	padding-left: 0;
+}
+.post-content img {
+	padding-left: 5px;
+}
