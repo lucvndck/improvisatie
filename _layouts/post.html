@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<hr>
+<h2 class="center post-h2">{{ page.title }}</h2>
+<!-- 
+<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+-->
+<header class="post-header">
+	
+	<div class="post-header__left">
+		<h5 class="uppercase">begeleiding</h5>
+	</div>
+	<div class="post-header__mid-left">
+		<p>{{ page.begeleiding1 }}</p>
+		<p>{{ page.begeleiding2 }}</p>
+		<p>{{ page.begeleiding3 }}</p>
+	</div>
+	<div class="post-header__mid-right">
+		<p>{{ page.luisteren1 }}</p>
+		<p>{{ page.luisteren2 }}</p>
+		<p>{{ page.luisteren3 }}</p>
+	</div>
+	<div class="post-header__right">
+		<h5 class="uppercase">luisteren</h5>
+	</div>
+	
+</header>
+<hr>
+<div class="woord-vooraf">
+	<div class="uitleg">
+		<h5 class="uppercase">uitleg</h5>
+		<p>{{ page.uitleg | newline_to_br }}</p>
+	</div>
+	<div class="doel">
+		<h5 class="uppercase">doel</h5>
+		<p>{{ page.doel | newline_to_br }}</p>
+	</div>
+</div>
+<div class="post-content">
+	{{ content }}
+</div>
+
+<div class="back">
+	<a href="/posts.html" class="red"> back to all lessons</a>
+</div>
