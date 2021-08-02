@@ -1,1 +1,12 @@
-
+<aside>
+	<hr>
+	<h3>Index</h3>
+	<hr>
+	<ul>
+	  {% for post in site.posts reversed %}
+	    <li>
+	      <h4><a href="{{ post.url }}" class="black">{{ post.title }}</a></h4>
+	    </li>
+	  {% endfor %}
+	</ul>
+</aside>
