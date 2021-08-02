@@ -1,0 +1,15 @@
+---
+layout: default
+title: Lessen
+---
+<h1 class="small-h2">Alle lessen</h1>
+
+<ul class="posts">
+  {% for post in site.posts reversed %}
+    <li>
+      <h2><a href="{{ post.url }}" class="black">{{ post.title }}</a></h2>
+      <p>{{ post.description }}</p>
+    </li>
+	<hr>
+  {% endfor %}
+</ul>
