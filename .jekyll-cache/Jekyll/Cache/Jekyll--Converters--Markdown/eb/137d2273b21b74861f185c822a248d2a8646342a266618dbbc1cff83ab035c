@@ -1,6 +1,12 @@
-I"¡<h1 class="small-h2">Alle lessen</h1>
+I"ì<h1 class="small-h2">Alle lessen</h1>
 
 <ul class="posts">
+  
+    <li>
+      <h2><a href="/2021/07/30/sjabloon.html" class="black">Sjabloon</a></h2>
+      <p>een startpagina voor het maken van de oefeningen</p>
+    </li>
+	<hr />
   
     <li>
       <h2><a href="/2021/08/01/vier-noten-oefening.html" class="black">4 noten oefening</a></h2>
@@ -11,6 +17,12 @@
     <li>
       <h2><a href="/2021/08/02/pentatonieken.html" class="black">Pentatonieken</a></h2>
       <p>de meest gebruikte scale om te improviseren</p>
+    </li>
+	<hr />
+  
+    <li>
+      <h2><a href="/2021/08/03/Funk.html" class="black">Funk</a></h2>
+      <p>speel Funky aan de hand van Maceo Parker's solo</p>
     </li>
 	<hr />
   

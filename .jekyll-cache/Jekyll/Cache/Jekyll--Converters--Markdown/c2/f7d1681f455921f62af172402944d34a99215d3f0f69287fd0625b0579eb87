@@ -1,10 +1,8 @@
----
-layout: default
----
-<hr>
-<h2 class="center post-h2">{{ page.title }}</h2>
+I"l<hr />
+
+<h2 class="center post-h2">Sjabloon</h2>
 <!--
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<p>30 Jul 2021 - </p>
 -->
 <header class="post-header">
 
@@ -12,35 +10,42 @@ layout: default
 		<h5 class="uppercase">begeleiding</h5>
 	</div>
 	<div class="post-header__mid-left">
-		<p>{{ page.begeleiding1 }}</p>
-		<p>{{ page.begeleiding2 }}</p>
-		<p>{{ page.begeleiding3 }}</p>
+		<p>één</p>
+		<p>twee</p>
+		<p>drie</p>
 	</div>
 	<div class="post-header__mid-right">
-		<p>{{ page.luisteren1 }}</p>
-		<p>{{ page.luisteren2 }}</p>
-		<p>{{ page.luisteren3 }}</p>
+		<p>vier</p>
+		<p>vijf</p>
+		<p>zes</p>
 	</div>
 	<div class="post-header__right">
 		<h5 class="uppercase">luisteren</h5>
 	</div>
 
 </header>
-<hr>
+<hr />
+
 <div class="woord-vooraf">
 	<div class="uitleg">
 		<h5 class="uppercase">uitleg</h5>
-		<p>{{ page.uitleg | newline_to_br }}</p>
+		<p>Uitleg over de oefening.<br />
+</p>
 	</div>
 	<div class="doel">
 		<h5 class="uppercase">doel</h5>
-		<p>{{ page.doel | newline_to_br }}</p>
+		<p>Doelen<br />
+</p>
 	</div>
 </div>
 <div class="post-content">
-	{{ content | markdownify }}
+	<h3 id="de-oefening">De oefening</h3>
+
+<p>Kies 4 noten.</p>
+
 </div>
 
 <div class="back">
 	<a href="/posts.html" class="red"> back to all lessons</a>
 </div>
+:ET

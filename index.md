@@ -7,6 +7,10 @@ layout: default
 
 <p>heir komt wat content <br>en nog iets meer met een br</p>
 
-een nieuwe paragraaf
+**Gebruik svg**, dat is veel duidelijker dan jpg! Ik heb volgende classes toegevoegd om ze mooi te stylen: .height-svg .width-svg
 
-Misschien nog enkele kleinigheden
+Jekyll gebruikt Kramdown, hierdoor kan je classes toevoegen aan markdown. Zo:
+
+``` markdown
+{: .class }
+```

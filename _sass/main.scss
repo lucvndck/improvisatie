@@ -4,7 +4,21 @@
 }
 :root {
 	/* COLORS */
+
+	/* FONTS */
 	
+	--ff-1: "Helvetica Neue", sans-serif;
+	--ff-2: "Hermes", sans-serif;
+	--fw-1: 300;
+	--fw-2: 400;
+
+	/*
+	--ff-1: "Roboto", sans-serif;
+	--ff-2: "Hermes", sans-serif;
+	--fw-1: 100;
+	--fw-2: 300;
+	*/
+
 }
 * {
 	margin: 0;
@@ -12,8 +26,8 @@
 }
 body {
 	font-size: 18px;
-	font-family: "Helvetica Neue", sans-serif;
-	font-weight: 400;
+	font-family: var(--ff-1);
+	font-weight: var(--fw-2);
 	min-height: 100vh;
 	position: relative;
 }

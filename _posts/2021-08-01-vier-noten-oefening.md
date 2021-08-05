@@ -10,7 +10,7 @@ luisteren3: zes
 uitleg: |
   Je eerste oefening.
   Doe deze liefst met je leraar, die kan je snel op weg helpen en inspireren met zijn eigen improvisaties.
-  4 noten zijn gemakkelijk te onthouden en je kan er onmiddelijk mooie klanken met maken.
+  4 noten zijn gemakkelijk te onthouden en je kan er onmiddellijk mooie klanken met maken.
 doel: |
   Vertrouwen krijgen.
   4-maten structuur voelen.
