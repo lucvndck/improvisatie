@@ -36,4 +36,28 @@ Bepaal een tempo en tel af. (Gebruik eventueel een metronoom)
 
 Speel de Tonica 2x4 keer als een vierde noot. Dit is je begeleiding.
 
-![4 noten](/assets/img/01-4n/IB-IM-4-noten-baslijn.svg "title"){: .height-svg}
+![voorbeeld 2 lijnen](/assets/img/01-4n/IB-IM-4-noten-2lijnen.svg "title"){: .height2-svg}
+
+Solovoorbeeld met 4de noten
+
+![solo 4de noten](/assets/img/01-4n/IB-IM-4-noten-solo4denoten.svg "title"){: .height-svg}
+
+Solovoorbeeld met andere ritmes
+
+![soloritmes](/assets/img/01-4n/IB-IM-4-noten-soloritmes.svg "title"){: .height-svg}
+
+notenreeks gebaseerd op het eerste voorbeeld
+
+![notenreeks1](/assets/img/01-4n/IB-IM-4-notenreeks1.svg "title"){: .height-svg}
+
+Andere notenreeks (met transposities)
+
+![notenreeks2](/assets/img/01-4n/IB-IM-4-notenreeks2.svg "title"){: .height-svg}
+
+Reeksen met een chromatische noot
+
+![notenreeks3](/assets/img/01-4n/IB-IM-4-notenreeks3.svg "title"){: .height-svg-hoger}
+
+Aantekeningen
+
+![lege notenbalk](/assets/img/01-4n/IB-IM-4-noten-lege-notenbalken.svg "title"){: .height2-svg}
