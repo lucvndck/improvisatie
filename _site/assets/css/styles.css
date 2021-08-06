@@ -1,10 +1,10 @@
 @font-face { font-family: Hermes; src: url(/assets/fonts/Hermes.ttf); }
 
-:root { /* COLORS */ /* FONTS */ --ff-1: "Helvetica Neue", sans-serif; --ff-2: "Hermes", sans-serif; --fw-1: 300; --fw-2: 400; /* --ff-1: "Roboto", sans-serif; --ff-2: "Hermes", sans-serif; --fw-1: 100; --fw-2: 300; */ }
+:root { /* COLORS */ /* FONTS */ --ff-1: "Helvetica Neue", sans-serif; --ff-2: "Hermes", sans-serif; --fw-1: 300; --fw-2: 400; /* --ff-1: "Roboto", sans-serif; --ff-2: "Hermes", sans-serif; --fw-1: 100; --fw-2: 300; */ /* Global default size ======================= */ --ds: 18px; }
 
 * { margin: 0; padding: 0; }
 
-body { font-size: 18px; font-family: var(--ff-1); font-weight: var(--fw-2); min-height: 100vh; position: relative; }
+body { font-size: var(--ds); font-family: var(--ff-1); font-weight: var(--fw-2); min-height: 100vh; position: relative; }
 
 main { display: grid; grid-template-columns: 27% 73%; min-height: 500px; }
 
@@ -20,7 +20,7 @@ a { text-decoration: none; color: #888; padding-right: 15px; }
 
 a:hover { color: #000; }
 
-p { line-height: 1.4; padding-bottom: 12px; }
+p { line-height: 1.4; padding-bottom: .67em; }
 
 .navigation { padding-left: 5vw; margin-bottom: 26px; width: 90vw; display: flex; justify-content: space-between; -ms-align-items: flex-end; align-items: flex-end; }
 
@@ -33,10 +33,10 @@ h3 { font-size: 2em; font-weight: 500; padding: 6px 5px; }
 
 h4 { font-family: "Hermes", sans-serif; font-size: 1.4em; color: #888; padding-left: 5px; padding-right: 5px; }
 
-footer { position: relative; bottom: 0; left: 0; margin: 30px 5vw; width: 90vw; display: flex; justify-content: space-between; font-weight: 300; }
+footer { position: relative; bottom: 0; left: 0; margin: 30px 5vw; width: 90vw; display: flex; justify-content: space-between; font-weight: var(--fw-1); }
 
 /* POST STYLES */
-.posts p { margin-top: -15px; font-weight: 300; }
+.posts p { margin-top: -15px; font-weight: var(--fw-1); }
 
 .posts a { color: #000; transition: color .2s; }
 
@@ -45,7 +45,7 @@ footer { position: relative; bottom: 0; left: 0; margin: 30px 5vw; width: 90vw; 
 .post-h2 { font-size: 6.3em; overflow: visible; }
 
 /* POST-HEADER LEFT*/
-.post-header { height: 113px; margin-top: -10px; display: flex; justify-content: space-between; -ms-align-items: flex-start; align-items: flex-start; position: relative; }
+.post-header { height: 6.28em; margin-top: -10px; display: flex; justify-content: space-between; -ms-align-items: flex-start; align-items: flex-start; position: relative; }
 
 .post-header__left { writing-mode: vertical-rl; transform: rotate(-180deg); position: absolute; left: 0; top: 0; flex: 1; }
 
@@ -53,7 +53,7 @@ footer { position: relative; bottom: 0; left: 0; margin: 30px 5vw; width: 90vw; 
 
 .post-header__mid-left { padding-top: 7px; padding-left: 42px; text-align: left; flex: 5; }
 
-.post-header__mid-left p { line-height: .8; font-weight: 300; color: #666; font-style: italic; }
+.post-header__mid-left p { line-height: .8; font-weight: var(--fw-1); color: #666; font-style: italic; }
 
 /* POST-HEADER RIGHT*/
 .post-header__right { writing-mode: vertical-rl; position: absolute; right: 0; top: 0; flex: 1; }
@@ -62,7 +62,7 @@ footer { position: relative; bottom: 0; left: 0; margin: 30px 5vw; width: 90vw; 
 
 .post-header__mid-right { padding-top: 7px; padding-right: 42px; text-align: right; flex: 5; }
 
-.post-header__mid-right p { line-height: .8; font-weight: 300; color: #666; font-style: italic; }
+.post-header__mid-right p { line-height: .8; font-weight: var(--fw-1); color: #666; font-style: italic; }
 
 /* WOORD VOORAF */
 .woord-vooraf { display: flex; justify-content: space-between; margin-top: 12px; margin-bottom: 20px; }
@@ -79,17 +79,17 @@ footer { position: relative; bottom: 0; left: 0; margin: 30px 5vw; width: 90vw; 
 
 .doel h5 { padding-bottom: 10px; }
 
-.doel p { font-weight: 300; }
+.doel p { font-weight: var(--fw-1); }
 
 .doel p br { content: ""; margin: 2em; display: block; font-size: 24%; }
 
-.post-content p { font-weight: 300; }
+.post-content p { font-weight: var(--fw-1); }
 
 .post-content h3 { padding-left: 0; }
 
 .post-content img { padding-left: 5px; }
 
-/* TOOLS EN BROWSER DEFAULT AVERRIDES */
+/* TOOLS EN BROWSER DEFAULT OVERRIDES */
 .black { color: #000; }
 
 .red { color: crimson; }

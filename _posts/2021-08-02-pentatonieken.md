@@ -8,7 +8,7 @@ luisteren1: vier
 luisteren2: vijf
 luisteren3: zes
 uitleg: |
-  Pentatonieken zijn toonladders van 5 noten. Deze noten zijn de meest consonante noten uit een toonladder. 
+  Pentatonieken zijn toonladders van 5 noten. Deze noten zijn de meest consonante noten uit een toonladder.
   Pentatonieken zijn heel populair bij solisten uit elk muziekgenre. Dit is omdat het makkelijk is om er melodieën met te maken. De noten lijken bij elkaar te horen en eens ze gespeeld zijn in de solo wil het gehoor, van de solist en de luisteraar, niets anders meer.
   Een majeur pentatoniek bestaat uit de 1 2 3 5 6 van de toonladder.
 doel: |
@@ -22,5 +22,8 @@ description: de meest gebruikte scale om te improviseren
 
 Het nummer
 
-![It just happens that way](/assets/img/02-pe/IB-pentatonieken-itJustHappensThatWay.eps "It just happens that way")
+![It just happens that way](/assets/img/02-pe/IB-pentatonieken-itJustHappensThatWay.svg "It just happens that way"){: .width-svg}
 
+De scale (pentatoniek)
+
+![It just happens that way](/assets/img/02-pe/IB-pentatonieken-scale.svg "It just happens that way scale"){: .height-svg}
