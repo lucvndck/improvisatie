@@ -32,6 +32,16 @@ pre {
 	padding: 15px;
 	background-color: #f6f6f6;
 }
+.disc {
+	list-style-type: circle;
+	margin-left: 42px;
+	margin-bottom: 1em;
+	font-family: var(--ff-1);
+	font-weight: var(--fw-1);
+	li {
+		line-height: 1.8em;
+	}
+}
 /* ===============================
 		SVG tools --> width height adjustments
 	================================ */

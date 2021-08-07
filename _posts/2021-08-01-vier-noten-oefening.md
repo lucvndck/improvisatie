@@ -36,21 +36,32 @@ Bepaal een tempo en tel af. (Gebruik eventueel een metronoom)
 
 Speel de Tonica 2x4 keer als een vierde noot. Dit is je begeleiding.
 
-![voorbeeld 2 lijnen](/assets/img/01-4n/IB-IM-4-noten-2lijnen.svg "title"){: .height2-svg}
+![baslijn](/assets/img/01-4n/IB-IM-4-noten-baslijn.svg "title"){: .height-svg}
 
-Solovoorbeeld met 4de noten
+Speel dan een "solo" met de noten uit de reeks. Dit doe je ook in 4de noten.
 
 ![solo 4de noten](/assets/img/01-4n/IB-IM-4-noten-solo4denoten.svg "title"){: .height-svg}
 
-Solovoorbeeld met andere ritmes
+Wissel dit steeds af met je leraar. Als hij soleert speel jij de 2x4 tonica's en andersom.
+
+![voorbeeld 2 lijnen](/assets/img/01-4n/IB-IM-4-noten-2lijnen.svg "title"){: .height2-svg}
+
+Breng naderhand wat meer variatie door andere ritmes te gebruiken.
 
 ![soloritmes](/assets/img/01-4n/IB-IM-4-noten-soloritmes.svg "title"){: .height-svg}
 
-notenreeks gebaseerd op het eerste voorbeeld
+{% include extra-4noten.html %}
+
+### Extra oefeningen
+
+<h5 class="uppercase mbt">Andere notencombinaties</h5>
+
+
+<p>Notenreeks gebaseerd op het eerste voorbeeld</p>
 
 ![notenreeks1](/assets/img/01-4n/IB-IM-4-notenreeks1.svg "title"){: .height-svg}
 
-Andere notenreeks (met transposities)
+1 2 3 5 van een toonladder
 
 ![notenreeks2](/assets/img/01-4n/IB-IM-4-notenreeks2.svg "title"){: .height-svg}
 
@@ -58,6 +69,12 @@ Reeksen met een chromatische noot
 
 ![notenreeks3](/assets/img/01-4n/IB-IM-4-notenreeks3.svg "title"){: .height-svg-hoger}
 
-Aantekeningen
+<h5 class="uppercase mbt">Zelf notencombinaties maken</h5>
+
+<ul class="disc">
+  <li>Geen 4 opeenvolgende noten</li>
+  <li>Maximum 1 chromatische noot</li>
+  <li>Kruisen en mollen mag je uiteraard ook gebruiken, zonder dat je daarvoor aan toonaarden denkt.</li>
+</ul>
 
 ![lege notenbalk](/assets/img/01-4n/IB-IM-4-noten-lege-notenbalken.svg "title"){: .height2-svg}
