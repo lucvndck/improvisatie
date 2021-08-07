@@ -28,19 +28,28 @@ h4 a.black:hover {
 .uppercase {
 	text-transform: uppercase;
 }
+pre {
+	padding: 15px;
+	background-color: #f6f6f6;
+}
+/* ===============================
+		SVG tools --> width height adjustments
+	================================ */
 .width-svg {
 	width: 70%;
+}
+.width-svg-wider {
+	width: 82%;
 }
 .height-svg {
 	height: 50px;
 }
 .height-svg-hoger {
-	height: 53px;
+	height: 54px;
+}
+.height-svg-hoogst {
+	height: 62px;
 }
 .height2-svg {
 	height: 118px;
-}
-pre {
-	padding: 15px;
-	background-color: #f6f6f6;
 }

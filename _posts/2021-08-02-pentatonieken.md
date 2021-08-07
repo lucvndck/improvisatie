@@ -22,8 +22,8 @@ description: de meest gebruikte scale om te improviseren
 
 Het nummer
 
-![It just happens that way](/assets/img/02-pe/IB-pentatonieken-itJustHappensThatWay.svg "It just happens that way"){: .width-svg}
+![It just happens that way](/assets/img/02-pe/IB-pentatonieken-itJustHappensThatWay.svg "It just happens that way"){: .width-svg-wider}
 
 De scale (pentatoniek)
 
-![It just happens that way](/assets/img/02-pe/IB-pentatonieken-scale.svg "It just happens that way scale"){: .height-svg}
+![It just happens that way](/assets/img/02-pe/IB-pentatonieken-scale.svg "It just happens that way scale"){: .height-svg-hoogst}
