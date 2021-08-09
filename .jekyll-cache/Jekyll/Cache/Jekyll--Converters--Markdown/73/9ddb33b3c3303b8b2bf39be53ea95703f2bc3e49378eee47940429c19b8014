@@ -1,63 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Improvisatie boek</title>
-	<link rel="stylesheet" href="/assets/css/styles.css">
-	<link rel="icon" href="favicon.ico" sizes="64x64">
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap" rel="stylesheet">
-</head>
-<body>
-
-	<div class="navigation">
-	
-	<nav>
-	  
-	    <a href="/" >
-	      Home
-	    </a>
-	  
-	    <a href="/posts.html" >
-	      Posts
-	    </a>
-	  
-	</nav>
-	<h1 id="improvisatie">Improvisatie</h1>
-	
-</div>
-
-	<main>
-
-		<aside>
-	<hr>
-	<h3>Index</h3>
-	<hr>
-	<ul>
-	  
-	    <li>
-	      <h4><a href="/2021/07/30/sjabloon.html" class="black">Sjabloon</a></h4>
-	    </li>
-	  
-	    <li>
-	      <h4><a href="/2021/08/01/vier-noten-oefening.html" class="black">4 noten oefening</a></h4>
-	    </li>
-	  
-	    <li>
-	      <h4><a href="/2021/08/02/pentatonieken.html" class="black">Pentatonieken</a></h4>
-	    </li>
-	  
-	    <li>
-	      <h4><a href="/2021/08/03/Funk.html" class="black">Funk</a></h4>
-	    </li>
-	  
-	</ul>
-</aside>
-
-		<div class="content">
-
-			<hr />
+I"�<hr />
 
 <h2 class="center post-h2">Pentatonieken</h2>
 <!--
@@ -69,9 +10,9 @@
 		<h5 class="uppercase">begeleiding</h5>
 	</div>
 	<div class="post-header__mid-left">
-		<p>Give me the night - Chill Night Mix</p>
-		<p>It just happens that way - Mindi Abair</p>
-		<p></p>
+		<p>één</p>
+		<p>twee</p>
+		<p>drie</p>
 	</div>
 	<div class="post-header__mid-right">
 		<p>vier</p>
@@ -123,29 +64,15 @@ Eindigen op de Tonica<br />
 <p>Luister naar de 4-maten structuur.
 Speel nu binnen deze 4-maten structuur, 2 maten solo en laat daarna 2 maten rust.</p>
 
-<p><img src="/assets/img/02-pe/IB-pentatonieken-scale.svg" alt="It just happens that way" title="It just happens that way scale" class="height-svg-hoogst" /></p>
-
 <p>Doe hetzelfde, maar geef nu in de 2 lege maten een antwoord op wat je net gespeeld hebt. Probeer dit in de volgende 4 maten te herhalen (eventueel met een ander antwoord).</p>
 
 <p>Pas de ritmes toe, die je tot nu toe geleerd hebt in de aanvullende oefeningen, in je solo.</p>
 
 <p>Tijdens het nummer worden er fill-in’s gespeeld wanneer de zang rust heeft. Probeer deze na te spelen. Hieronder vind je enkele voorbeelden.</p>
 
-<p><img src="/assets/img/01-4n/IB-IM-4-noten-lege-notenbalken.svg" alt="Give me the night" title="give me the night fill-in's " class="height2" /></p>
-
 <p>Verzin nu zelf fill-in’s.</p>
 
 <h5 id="extra-oefeningen">Extra oefeningen</h5>
-
-<p>Speel expressief. (luidsterkte, articulatie, rusten, …)</p>
-
-<p>Speel lange noten.</p>
-
-<p>Speel druk, vul zoveel mogelijk op.</p>
-
-<p>Bouw je solo op. Speel in het begin in het lage register en tegen het einde van je solo speel je in het hogere register.</p>
-
-<h3 id="2de-oefening-it-just-happens-that-way">2de OEFENING: It just happens that way</h3>
 
 <p>Het nummer</p>
 
@@ -160,17 +87,4 @@ Speel nu binnen deze 4-maten structuur, 2 maten solo en laat daarna 2 maten rust
 <div class="back">
 	<a href="/posts.html" class="red"> back to all lessons</a>
 </div>
-
-		</div>
-
-	</main>
-
-	<footer>
-	<div class="todo">
-		Geen ToDo's
-	</div>
-	<p>Luc Van Dijck</p>
-</footer>
-
-</body>
-</html>
+:ET
