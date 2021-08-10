@@ -3,10 +3,10 @@ layout: post
 title: Pentatonieken
 begeleiding1: Give me the night - Chill Night Mix
 begeleiding2: It just happens that way - Mindi Abair
-begeleiding3: 
-luisteren1: vier
-luisteren2: vijf
-luisteren3: zes
+begeleiding3:
+luisteren1: Fusion bvb. Candy Dulfer
+luisteren2: Hardrock bvb. Cream
+luisteren3: De meeste popmuziek
 uitleg: |
   Pentatonieken zijn toonladders van 5 noten. Deze noten zijn de meest consonante noten uit een toonladder.
   Pentatonieken zijn heel populair bij solisten uit elk muziekgenre. Dit is omdat het makkelijk is om er melodieën met te maken. De noten lijken bij elkaar te horen en eens ze gespeeld zijn in de solo wil het gehoor, van de solist en de luisteraar, niets anders meer.
