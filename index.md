@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-## Toelichtingen bij het boek
+## Een woord vooraf
 
 <p>heir komt wat content <br>en nog iets meer met een br</p>
 
@@ -14,3 +14,6 @@ Jekyll gebruikt Kramdown, hierdoor kan je classes toevoegen aan markdown. Zo:
 ``` markdown
 {: .class }
 ```
+<div class="row">
+
+</div>

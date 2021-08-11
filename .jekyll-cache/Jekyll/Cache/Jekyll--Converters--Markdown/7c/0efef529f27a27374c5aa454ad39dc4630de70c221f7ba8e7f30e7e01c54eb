@@ -1,0 +1,65 @@
+I"�<hr />
+
+<h2 class="center post-h2">Modaal - 2 akkoorden</h2>
+<!--
+<p>10 Aug 2021 - </p>
+-->
+<header class="post-header">
+
+	<div class="post-header__left">
+		<h5 class="uppercase">begeleiding</h5>
+	</div>
+	<div class="post-header__mid-left">
+		<p>één</p>
+		<p>twee</p>
+		<p>drie</p>
+	</div>
+	<div class="post-header__mid-right">
+		<p>vier</p>
+		<p>vijf</p>
+		<p>zes</p>
+	</div>
+	<div class="post-header__right">
+		<h5 class="uppercase">luisteren</h5>
+	</div>
+
+</header>
+<hr />
+
+<div class="woord-vooraf">
+	<div class="uitleg">
+		<h5 class="uppercase">uitleg</h5>
+		<p>Hetzelfde als oefening "2x4 noten".<br />
+Deze keer gebruiken we toonladders.<br />
+</p>
+	</div>
+	<div class="doel">
+		<h5 class="uppercase">doel</h5>
+		<p>4-maten structuur<br />
+2 toonladders kunnen afwisselen<br />
+Naar het volgende akkoord leren toespelen.<br />
+Verschillen tussen akkoorden benadrukken.<br />
+</p>
+	</div>
+</div>
+<div class="post-content">
+	<h3 id="de-oefening">De oefening</h3>
+
+<p>Beide toonladders zijn dorische scales. Typisch aan deze scales is dat elke noot bruikbaar is. Hoewel sommige noten dissonanter klinken dan de andere.</p>
+
+<p><img src="/assets/img/06-mo/IB-Modaal-2-akk-schema.svg" alt="A-deel Maiden Voyage" title="Maiden Voyage scales A-deel" class="height2-hoger-svg mtb" /></p>
+
+<p>Deze oefening passen we toe op de begeleiding van “Maiden Voyage”.  Dit nummer heeft een AABA structuur. soleer alleen op de A-delen. Laat het B-deel gewoon passeren.</p>
+
+<p><img src="/assets/img/06-mo/IB-Modaal-2-akk-maidenVoyage_0002.svg" alt="Maiden Voyage" title="Maiden Voyage lead sheet" class="width-svg mtb" /></p>
+
+<h3 id="oefening-bis">Oefening bis</h3>
+
+<p>Lukte de vorige oefening goed, leer dan ook de scales op het B-deel. Kies de gepaste begeleiding in iReal PRO en soleer over deze akkoorden. Pas daarna kan je dit integreren in “Maiden Voyage” en kan je over het hele nummer soleren.</p>
+
+</div>
+
+<div class="back">
+	<a href="/posts.html" class="red"> back to all lessons</a>
+</div>
+:ET
