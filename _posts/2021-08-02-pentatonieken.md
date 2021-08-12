@@ -28,9 +28,9 @@ Leer hem van buiten.
 
 Zet de muziek op en speel wat met de pentatoniek. Luister aandachtig naar elke noot.
 
-Hoe past die op de begeleiding? (speel niet te snel. Veel noten spellen is vaak een camouflage van onkunde)
+Hoe past die op de begeleiding? (speel niet te snel. Veel noten spelen is vaak een camouflage van onkunde)
 
-zoek de tonica. Is dit werkelijk de eerste noot van de pentatoniek?
+Zoek de tonica. Is dit werkelijk de eerste noot van de pentatoniek?
 
 Probeer nu melodietjes te maken.
 
@@ -39,9 +39,9 @@ Probeer nu melodietjes te maken.
 Luister naar de 4-maten structuur.
 Speel nu binnen deze 4-maten structuur, 2 maten solo en laat daarna 2 maten rust.
 
-![It just happens that way](/assets/img/02-pe/IB-pentatonieken-scale.svg "It just happens that way scale"){: .height-svg-hoogst}
+![Give me the night - pentatoniek](/assets/img/02-pe/IB-pentatonieken-scale.svg "Give me the night - pentatoniek"){: .height-svg-hoogst}
 
-Doe hetzelfde, maar geef nu in de 2 lege maten een antwoord op wat je net gespeeld hebt. Probeer dit in de volgende 4 maten te herhalen (eventueel met een ander antwoord).
+Doe hetzelfde, maar geef nu in de 2 lege maten een antwoord op wat je in de eerste 2 maten gespeeld hebt. Probeer dit in de volgende 4 maten te herhalen (eventueel met een ander antwoord).
 
 Pas de ritmes toe, die je tot nu toe geleerd hebt in de aanvullende oefeningen, in je solo.
 

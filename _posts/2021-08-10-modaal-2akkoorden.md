@@ -25,7 +25,7 @@ Beide toonladders zijn dorische scales. Typisch aan deze scales is dat elke noot
 
 ![A-deel Maiden Voyage](/assets/img/06-mo/IB-Modaal-2-akk-schema.svg "Maiden Voyage scales A-deel"){: .height2-hoger-svg}{: .mtb}
 
-Deze oefening passen we toe op de begeleiding van “Maiden Voyage”.  Dit nummer heeft een AABA structuur. soleer alleen op de A-delen. Laat het B-deel gewoon passeren.
+Deze oefening passen we toe op de begeleiding van “Maiden Voyage”.  Dit nummer heeft een AABA structuur. soleer alleen op de A-delen. Laat het B-deel gewoon voorbijgaan zonder te soleren.
 
 ![Maiden Voyage](/assets/img/06-mo/IB-Modaal-2-akk-maidenVoyage_0002.svg "Maiden Voyage lead sheet"){: .width-svg}{: .mtb}
 
