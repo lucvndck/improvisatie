@@ -1,75 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Improvisatie boek</title>
-	<link rel="stylesheet" href="/assets/css/styles.css">
-	<link rel="icon" href="favicon.ico" sizes="64x64">
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap" rel="stylesheet">
-</head>
-<body>
-
-	<div class="navigation">
-	
-	<nav>
-	  
-	    <a href="/" >
-	      Home
-	    </a>
-	  
-	    <a href="/posts.html" >
-	      Posts
-	    </a>
-	  
-	</nav>
-	<h1 id="improvisatie">Improvisatie</h1>
-	
-</div>
-
-	<main>
-
-		<aside>
-	<hr>
-	<h3>Index</h3>
-	<hr>
-	<ul>
-	  
-	    <li>
-	      <h4><a href="/2021/07/30/sjabloon.html" class="black">Sjabloon</a></h4>
-	    </li>
-	  
-	    <li>
-	      <h4><a href="/2021/08/01/vier-noten-oefening.html" class="black">4 noten oefening</a></h4>
-	    </li>
-	  
-	    <li>
-	      <h4><a href="/2021/08/02/pentatonieken.html" class="black">Pentatonieken</a></h4>
-	    </li>
-	  
-	    <li>
-	      <h4><a href="/2021/08/03/Funk.html" class="black">Funk</a></h4>
-	    </li>
-	  
-	    <li>
-	      <h4><a href="/2021/08/08/twee-maal-vier-noten.html" class="black">2x4 noten</a></h4>
-	    </li>
-	  
-	    <li>
-	      <h4><a href="/2021/08/09/groove.html" class="black">Groove</a></h4>
-	    </li>
-	  
-	    <li>
-	      <h4><a href="/2021/08/10/modaal-2akkoorden.html" class="black">Modaal - 2 akkoorden</a></h4>
-	    </li>
-	  
-	</ul>
-</aside>
-
-		<div class="content">
-
-			<hr />
+I"�<hr />
 
 <h2 class="center post-h2">Pentatonieken</h2>
 <!--
@@ -81,9 +10,9 @@
 		<h5 class="uppercase">begeleiding</h5>
 	</div>
 	<div class="post-header__mid-left">
-		<p>You can't Hold Me Down - US3</p>
 		<p>Give me the night - Chill Night Mix</p>
 		<p>It just happens that way - Mindi Abair</p>
+		<p></p>
 	</div>
 	<div class="post-header__mid-right">
 		<p>Fusion bvb. Candy Dulfer</p>
@@ -114,46 +43,28 @@ Eindigen op de Tonica<br />
 	</div>
 </div>
 <div class="post-content">
-	<p>Uitleg “pentatonieken” zie blz 000</p>
+	<h3 id="you-cant-hold-me-down">You can’t Hold Me Down</h3>
 
-<h3 id="1-you-cant-hold-me-down">1. You can’t Hold Me Down</h3>
-
-<p>Penstatoniek van Fm (Ab)</p>
-
-<p><img src="/assets/img/02-pe/IB-pentatonieken-YCHMD-scale.svg" alt="You can't hold me down scale" title="You can't hold me down scale" class="height-svg-hoogster" /></p>
+<p>Penstatoniek van Ab (Fm)</p>
 
 <p>De blazerslijn is er met opgebouwd. Probeer deze lijn mee te spelen.</p>
 
-<p><img src="/assets/img/02-pe/IB-pentatonieken-YCHMD-blazers.svg" alt="You can't hold me down blazers" title="You can't hold me down blazers" class="height2-hoger-svg" /></p>
+<p><img src="/assets/img/02-pe/IB-pentatonieken-YCHMD-blazers.svg" alt="You can't hold me down" title="You can't hold me down scale" class="height2-hoger-svg" /></p>
 
 <p>Als de blazers niet spelen kan je gemakkelijk met de pentatoniek experimenteren.</p>
 
 <h5 id="oefening">OEFENING:</h5>
 
 <ul class="disc">
-  <li>Begin met 1 noot, de fa (= de grondnoot of Tonica). Speel er ritmisch mee.</li>
-  <li>Voeg daarna een noot toe. Luister goed naar die 2 noten. Probeer te onthouden hoe die klinken.</li>
-  <li>Blijf noten toevoegen tot je ze allemaal beheerst.</li>
-  <li>Weet dat je ze in het ganse register van je instrument kan spelen.</li>
+  <li>begin met 1 noot, de fa (= de grondnoot of Tonica). Speel er ritmisch mee.</li>
+  <li>voeg daarna een noot toe. Luister goed naar die 2 noten. Probeer te onthouden hoe die klinken.</li>
+  <li>blijf noten toevoegen tot je ze allemaal beheerst.</li>
+  <li>weet dat je ze in het ganse register van je instrument kan spelen.</li>
 </ul>
 
-<h5 id="oefening-2-zelfde-maar-dan-gestructureerd">OEFENING 2: ZELFDE, MAAR DAN GESTRUCTUREERD</h5>
+<p><img src="/assets/img/02-pe/IB-pentatonieken-YCHMD-f-eb.svg" alt="You can't hold me down" title="You can't hold me down scale" class="height-svg" /></p>
 
-<ul class="disc">
-  <li>Speel ritmisch met de f</li>
-  <li>Speel met eb en de f. Gebruik de eb om weg te gaan van de tonica en er terug naartoe te gaan. Zie voorbeeld:</li>
-</ul>
-
-<p><img src="/assets/img/02-pe/IB-pentatonieken-YCHMD-f-eb.svg" alt="You can't hold me down" title="You can't hold me down scale" class="height-svg-hoogst" /></p>
-
-<ul class="disc">
-  <li>Voeg nu ook de ab toe. (3 noten) Gebruik deze op dezelfde manier als de eb.</li>
-  <li>Nu kan je de ganse scale gebruiken, maar zorg er nog steeds voor dat je eindigd op de f. Met andere woorden, de f is je rustpunt, de doelnoot.</li>
-</ul>
-
-<p><img src="/assets/img/02-pe/IB-pentatonieken-YCHMD-voorbeeld-solo.svg" alt="You can't hold me down" title="You can't hold me down scale" class="height-svg-hoger" /></p>
-
-<h3 id="2-give-me-the-night">2. Give me the night</h3>
+<h3 id="give-me-the-night">Give me the night</h3>
 
 <p>Speel de pentatnoniek over het ganse register van je instrument.</p>
 
@@ -196,7 +107,7 @@ Speel nu binnen deze 4-maten structuur, 2 maten solo en laat daarna 2 maten rust
 
 <p>Bouw je solo op. Speel in het begin in het lage register en tegen het einde van je solo speel je in het hogere register.</p>
 
-<h3 id="3-it-just-happens-that-way">3. It just happens that way</h3>
+<h3 id="2de-oefening-it-just-happens-that-way">2de OEFENING: It just happens that way</h3>
 
 <p>Het nummer</p>
 
@@ -211,17 +122,4 @@ Speel nu binnen deze 4-maten structuur, 2 maten solo en laat daarna 2 maten rust
 <div class="back">
 	<a href="/posts.html" class="red"> back to all lessons</a>
 </div>
-
-		</div>
-
-	</main>
-
-	<footer>
-	<div class="todo">
-		Geen ToDo's
-	</div>
-	<p>Luc Van Dijck</p>
-</footer>
-
-</body>
-</html>
+:ET
