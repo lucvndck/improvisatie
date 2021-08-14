@@ -1,2 +1,4 @@
 title: improvisatie boek
 description: Het beste boek dat je kan vinden over improvisatie.
+
+permalink: /:categories/:year/:month/:day/:title

@@ -48,14 +48,16 @@ Als de blazers niet spelen kan je gemakkelijk met de pentatoniek experimenteren.
   <li>Speel met eb en de f. Gebruik de eb om weg te gaan van de tonica en er terug naartoe te gaan. Zie voorbeeld:</li>
 </ul>
 
-![You can't hold me down](/assets/img/02-pe/IB-pentatonieken-YCHMD-f-eb.svg "You can't hold me down scale"){: .height-svg-hoogst}
+![You can't hold me down](/assets/img/02-pe/IB-pentatonieken-YCHMD-f-eb.svg "You can't hold me down solo met f en eb"){: .height-svg-hoogst}
 
 <ul class="disc">
   <li>Voeg nu ook de ab toe. (3 noten) Gebruik deze op dezelfde manier als de eb.</li>
   <li>Nu kan je de ganse scale gebruiken, maar zorg er nog steeds voor dat je eindigd op de f. Met andere woorden, de f is je rustpunt, de doelnoot.</li>
 </ul>
 
-![You can't hold me down](/assets/img/02-pe/IB-pentatonieken-YCHMD-voorbeeld-solo.svg "You can't hold me down scale"){: .height-svg-hoger}
+![You can't hold me down](/assets/img/02-pe/IB-pentatonieken-YCHMD-voorbeeld-solo.svg "You can't hold me down voorbeeld solo"){: .height-svg-hoger}
+
+{% include extra-zoek-de-pentatoniek.html %}
 
 ### 2. Give me the night
 

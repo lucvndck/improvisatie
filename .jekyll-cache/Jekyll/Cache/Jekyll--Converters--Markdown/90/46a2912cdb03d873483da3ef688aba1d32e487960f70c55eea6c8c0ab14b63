@@ -1,57 +1,14 @@
-I"Q<hr />
+I"b<p>Uitleg “pentatonieken” zie blz 000</p>
 
-<h2 class="center post-h2">Pentatonieken</h2>
-<!--
-<p>02 Aug 2021 - </p>
--->
-<header class="post-header">
+<h3 id="1-you-cant-hold-me-down">1. You can’t Hold Me Down</h3>
 
-	<div class="post-header__left">
-		<h5 class="uppercase">begeleiding</h5>
-	</div>
-	<div class="post-header__mid-left">
-		<p>Give me the night - Chill Night Mix</p>
-		<p>It just happens that way - Mindi Abair</p>
-		<p></p>
-	</div>
-	<div class="post-header__mid-right">
-		<p>Fusion bvb. Candy Dulfer</p>
-		<p>Hardrock bvb. Cream</p>
-		<p>De meeste popmuziek</p>
-	</div>
-	<div class="post-header__right">
-		<h5 class="uppercase">luisteren</h5>
-	</div>
+<p>Penstatoniek van Fm (Ab)</p>
 
-</header>
-<hr />
-
-<div class="woord-vooraf">
-	<div class="uitleg">
-		<h5 class="uppercase">uitleg</h5>
-		<p>Pentatonieken zijn toonladders van 5 noten. Deze noten zijn de meest consonante noten uit een toonladder.<br />
-Pentatonieken zijn heel populair bij solisten uit elk muziekgenre. Dit is omdat het makkelijk is om er melodieën met te maken. De noten lijken bij elkaar te horen en eens ze gespeeld zijn in de solo wil het gehoor, van de solist en de luisteraar, niets anders meer.<br />
-Een majeur pentatoniek bestaat uit de 1 2 3 5 6 van de toonladder.<br />
-</p>
-	</div>
-	<div class="doel">
-		<h5 class="uppercase">doel</h5>
-		<p>4-maten structuur<br />
-Melodieën verzinnen<br />
-Eindigen op de Tonica<br />
-</p>
-	</div>
-</div>
-<div class="post-content">
-	<h3 id="you-cant-hold-me-down">You can’t Hold Me Down</h3>
-
-<p>Penstatoniek van Ab (Fm)</p>
-
-<p><img src="/assets/img/02-pe/IB-pentatonieken-YCHMD-blazers.svg" alt="You can't hold me down scale" title="You can't hold me down scale" class="height2-hoger-svg" /></p>
+<p><img src="/assets/img/02-pe/IB-pentatonieken-YCHMD-scale.svg" alt="You can't hold me down scale" title="You can't hold me down scale" class="height-svg-hoogster" /></p>
 
 <p>De blazerslijn is er met opgebouwd. Probeer deze lijn mee te spelen.</p>
 
-<p><img src="/assets/img/02-pe/IB-pentatonieken-YCHMD-scale.svg" alt="You can't hold me down blazers" title="You can't hold me down blazers" class="height2-hoger-svg" /></p>
+<p><img src="/assets/img/02-pe/IB-pentatonieken-YCHMD-blazers.svg" alt="You can't hold me down blazers" title="You can't hold me down blazers" class="height2-hoger-svg" /></p>
 
 <p>Als de blazers niet spelen kan je gemakkelijk met de pentatoniek experimenteren.</p>
 
@@ -71,14 +28,28 @@ Eindigen op de Tonica<br />
   <li>Speel met eb en de f. Gebruik de eb om weg te gaan van de tonica en er terug naartoe te gaan. Zie voorbeeld:</li>
 </ul>
 
-<p><img src="/assets/img/02-pe/IB-pentatonieken-YCHMD-f-eb.svg" alt="You can't hold me down" title="You can't hold me down scale" class="height-svg-hoogst" /></p>
+<p><img src="/assets/img/02-pe/IB-pentatonieken-YCHMD-f-eb.svg" alt="You can't hold me down" title="You can't hold me down solo met f en eb" class="height-svg-hoogst" /></p>
 
 <ul class="disc">
   <li>Voeg nu ook de ab toe. (3 noten) Gebruik deze op dezelfde manier als de eb.</li>
   <li>Nu kan je de ganse scale gebruiken, maar zorg er nog steeds voor dat je eindigd op de f. Met andere woorden, de f is je rustpunt, de doelnoot.</li>
 </ul>
 
-<p><img src="/assets/img/02-pe/IB-pentatonieken-YCHMD-voorbeeld-solo.svg" alt="You can't hold me down" title="You can't hold me down scale" class="height-svg-hoger" /></p>
+<p><img src="/assets/img/02-pe/IB-pentatonieken-YCHMD-voorbeeld-solo.svg" alt="You can't hold me down" title="You can't hold me down voorbeeld solo" class="height-svg-hoger" /></p>
+
+<section class="extra">
+  <h5 class="uppercase">Extra:</h5>
+  <br />
+  <h5>Hoe zoek je de pentatoniek die je over een nummer kan spelen?</h5>
+  <br />
+  <p>Zoek de tonica.</p>
+  <p class="italic">Zet het nummer op. Luister en probeer de grondnoot (Tonica) te zingen.</p>
+  <p class="italic">De Tonica is de noot die rust brengt en waarop een nummer eindigt. (tenzij het nummer gemoduleerd is)</p>
+  <p class="italic">Als dat moeilijk is spoel dan door naar het einde van het nummer. Bijna alle popnummers eindigen op de Tonica.</p>
+  <p>Zoek deze noot (die je net gezongen hebt) op je instrument.</p>
+  <p>Nu heb je 2 mogelijkheden: majeur-pentatoniek of mineur-pentatoniek</p>
+  <p>Speel een grote terts boven deze grondnoot. Klinkt het, dan moet je de majeur-pentatoniek gebruiken. Anders is het de mineur-pentatoniek die je moet zoeken.</p>
+</section>
 
 <h3 id="2-give-me-the-night">2. Give me the night</h3>
 
@@ -132,10 +103,4 @@ Speel nu binnen deze 4-maten structuur, 2 maten solo en laat daarna 2 maten rust
 <p>De scale (pentatoniek)</p>
 
 <p><img src="/assets/img/02-pe/IB-pentatonieken-scale.svg" alt="It just happens that way" title="It just happens that way scale" class="height-svg-hoogst" /></p>
-
-</div>
-
-<div class="back">
-	<a href="/posts.html" class="red"> back to all lessons</a>
-</div>
 :ET
