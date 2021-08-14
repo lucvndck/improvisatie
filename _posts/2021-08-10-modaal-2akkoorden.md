@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Modaal - 2 akkoorden
-begeleiding1: één
-begeleiding2: twee
-begeleiding3: drie
-luisteren1: vier
-luisteren2: vijf
-luisteren3: zes
+begeleiding1: Aebersold Volume 54 "Maiden Voyage"
+begeleiding2:
+begeleiding3:
+luisteren1: CD Maiden Voyage - Herbie Hancock
+luisteren2:
+luisteren3: 
 uitleg: |
   Hetzelfde als oefening "2x4 noten".
   Deze keer gebruiken we toonladders.

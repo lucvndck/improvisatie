@@ -88,7 +88,7 @@ Pas de ritmes toe, die je tot nu toe geleerd hebt in de aanvullende oefeningen, 
 
 Tijdens het nummer worden er fill-in's gespeeld wanneer de zang rust heeft. Probeer deze na te spelen. Hieronder vind je enkele voorbeelden.
 
-![Give me the night](/assets/img/01-4n/IB-IM-4-noten-lege-notenbalken.svg "give me the night fill-in's "){: .height2}
+![Give me the night](/assets/img/01-4n/IB-IM-4-noten-lege-notenbalken.svg "give me the night fill-in's "){: .width-svg}
 
 Verzin nu zelf fill-in's.
 
