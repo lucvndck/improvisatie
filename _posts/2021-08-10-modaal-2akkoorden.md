@@ -6,7 +6,7 @@ begeleiding2:
 begeleiding3:
 luisteren1: CD Maiden Voyage - Herbie Hancock
 luisteren2:
-luisteren3: 
+luisteren3:
 uitleg: |
   Hetzelfde als oefening "2x4 noten".
   Deze keer gebruiken we toonladders.
@@ -33,4 +33,12 @@ Deze oefening passen we toe op de begeleiding van “Maiden Voyage”.  Dit numm
 
 Lukte de vorige oefening goed, leer dan ook de scales op het B-deel. Kies de gepaste begeleiding in iReal PRO en soleer over deze akkoorden. Pas daarna kan je dit integreren in “Maiden Voyage” en kan je over het hele nummer soleren.
 
-extra oefeningen
+<div class="verdere-studie">
+  <h1 class="small-h2">Meer studie-materiaal</h1>
+  <ul class="two-column">
+    <li>studie1</li>
+    <li>studie2</li>
+    <li>studie3</li>
+    <li>studie4</li>
+  </ul>
+</div>

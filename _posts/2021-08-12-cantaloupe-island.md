@@ -14,7 +14,7 @@ doel: |
   Meerdere toonaarden gebruiken en horen waar je ze moet spelen.
   De overgangen naar de verschillende akkoorden duidelijk maken.
   De verschillen tussen de scales ontdekken en kunnen laten horen waardoor het schema ook goed te horen is in je solo.
-description: meerdere toonaarden verbinden
+description: meerdere toonaarden (3) verbinden
 ---
 
 
@@ -43,3 +43,13 @@ bla
 bla
 
 bla
+
+<div class="verdere-studie">
+  <h1 class="small-h2">Meer studie-materiaal</h1>
+  <ul class="two-column">
+    <li>studie1</li>
+    <li>studie2</li>
+    <li>studie3</li>
+    <li>studie4</li>
+  </ul>
+</div>

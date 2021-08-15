@@ -111,3 +111,13 @@ Het nummer
 De scale (pentatoniek)
 
 ![It just happens that way](/assets/img/02-pe/IB-pentatonieken-scale.svg "It just happens that way scale"){: .height-svg-hoogst}
+
+<div class="verdere-studie">
+  <h1 class="small-h2">Meer studie-materiaal</h1>
+  <ul class="two-column">
+    <li>studie1</li>
+    <li>studie2</li>
+    <li>studie3</li>
+    <li>studie4</li>
+  </ul>
+</div>

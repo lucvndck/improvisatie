@@ -1,4 +1,19 @@
 title: improvisatie boek
 description: Het beste boek dat je kan vinden over improvisatie.
+locale: nl_BE
+email: luc.vandijck@duffel.be
+collections:
+  posts:
+    title: posts
+    output: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Luc"
+      category: "improvisatie-oefeningen"
 
-permalink: /:categories/:title
+permalink: /:categories/:year/:title

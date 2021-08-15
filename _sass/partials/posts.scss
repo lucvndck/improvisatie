@@ -84,7 +84,7 @@
 	margin-bottom: 20px;
 }
 .uitleg {
-	width: 47%;
+	width: 49%;
 	border-left: 1px solid #000;
 	background-color: #f6f6f6;
 	padding: 8px;
@@ -102,7 +102,7 @@
 	}
 }
 .doel {
-	width: 47%;
+	width: 49%;
 	border-left: 1px solid #000;
 	background-color: #f6f6f6;
 	padding: 8px;
@@ -127,4 +127,20 @@
 }
 .post-content img {
 	padding-left: 5px;
+}
+.verdere-studie {
+	width: 100%;
+	margin: 24px 0;
+	padding: 16px;
+	background-color: #f6f6f6;
+	font-family: var(--ff-1);
+	font-weight: var(--fw-1);
+	ul.two-column {
+		padding-top: 15px;
+		column-count: 2;
+		column-gap: 10px;
+		li {
+			padding: 2px 0;
+		}
+	}
 }
