@@ -1,0 +1,52 @@
+I"�<hr />
+
+<h2 class="center post-h2">Groove</h2>
+<!--
+<p>09 Aug 2021 - Luc</p>
+-->
+<header class="post-header">
+
+	<div class="post-header__left">
+		<h5 class="uppercase">begeleiding</h5>
+	</div>
+	<div class="post-header__mid-left">
+		<p>één</p>
+		<p>twee</p>
+		<p>drie</p>
+	</div>
+	<div class="post-header__mid-right">
+		<p>vier</p>
+		<p>vijf</p>
+		<p>zes</p>
+	</div>
+	<div class="post-header__right">
+		<h5 class="uppercase">luisteren</h5>
+	</div>
+
+</header>
+<hr />
+
+<div class="woord-vooraf">
+	<div class="uitleg">
+		<h5 class="uppercase">uitleg</h5>
+		<p>Uitleg over de oefening.<br />
+</p>
+	</div>
+	<div class="doel">
+		<h5 class="uppercase">doel</h5>
+		<p>4-maten structuur<br />
+verzinnen van een groove<br />
+</p>
+	</div>
+</div>
+<div class="post-content">
+	<h3 id="de-oefening">De oefening</h3>
+
+<p>Kies 4 noten.</p>
+
+</div>
+
+<div class="back">
+	<a href="/posts.html" class="red"> back to all lessons</a>
+</div>
+:ET
