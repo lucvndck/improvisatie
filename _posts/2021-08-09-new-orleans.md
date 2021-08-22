@@ -1,12 +1,12 @@
 ---
 layout: post
 title: New Orleans
-begeleiding1: één
-begeleiding2: twee
-begeleiding3: drie
-luisteren1: vier
-luisteren2: vijf
-luisteren3: zes
+begeleiding1: Gianluca Galvani (let op&#58; 8 maten intro)
+begeleiding2: Hal Leonard - Jazz Play-along 87
+begeleiding3:
+luisteren1: Bill Bailey - Preservation Hall Jazz Band
+luisteren2: Bill Bailey - Kid Ory
+luisteren3: Bill Bailey - Ella Fitzgerald
 uitleg: |
   Je kan nog zo goed je toonladders en akkoorden spelen, maar het belangrijkste aan muziek spelen is het publiek en jezelf boeien.
   New Orleans is de oudste jazz-muziek. Muzikanten speelden elkaar na op het gehoor. Ze brachten de thema's op hun eigen speelse manier. De trombone speelde een dragende tegenstem (contrapunt) terwijl de klarinet een andere snelle geïmproviseerde tegenmelodie speelde.
@@ -33,7 +33,7 @@ Leer het nummer zoals het uitgeschreven staat:
 
 Meestal bestaat een compositie uit belangrijke noten (doelnoten) en opvulling.
 
-Hieronder staat een versie van het nummer met enkel nog de essentiële noten. Net genoeg om te horen welk nummer het is. Het kan eventueel nog verder gereduceerd worden, maar deze versie gaan we als ons vertrek beschouwen. Van hieruit gaan we zelf de noten opvullen met eigen materiaal.
+Hieronder staat een versie van het nummer met enkel nog de essentiële noten. Net genoeg om te horen welk nummer het is. Het kan eventueel nog verder gereduceerd worden (luister naar de versie van Ella Fitzgerald), maar deze versie gaan we als ons vertrek beschouwen. Van hieruit gaan we zelf de noten opvullen met eigen materiaal.
 
 ![New Orleans stripped song](/assets/img/09-no/New-Orleans-song-stripped.svg "New Orleans stripped"){: .width-svg}{: .mtb}
 
@@ -41,9 +41,9 @@ Hieronder staat een versie van het nummer met enkel nog de essentiële noten. Ne
 <div class="verdere-studie">
   <h1 class="small-h2">Meer studie-materiaal</h1>
   <ul class="two-column">
-    <li>studie1</li>
-    <li>studie2</li>
-    <li>studie3</li>
+    <li>St.Louis Blues</li>
+    <li>When the Saints Go Marching in</li>
+    <li>Royal Garden Blues</li>
     <li>studie4</li>
   </ul>
 </div>

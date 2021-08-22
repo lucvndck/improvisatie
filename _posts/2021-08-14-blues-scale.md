@@ -14,7 +14,7 @@ uitleg: |
   Je kan deze scale zowel op majeur- als mineur nummers spelen.
 doel: |
   Doelen
-description: een startpagina voor het maken van de oefeningen
+description: ... is meer dan een pentatoniek
 ---
 
 ### De oefening
