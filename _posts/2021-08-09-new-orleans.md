@@ -20,7 +20,22 @@ description: de oorsprong van improvisatie&#58; omspelen van de melodie
 
 ### De oefening
 
-Kies 4 noten.
+Leer het nummer zoals het uitgeschreven staat:
+
+<ul class="disc">
+  <li>speel het nummer volgens de partituur</li>
+  <li>probeer het van buiten te spelen (lukt dit nog niet, dan het verderop in de les wel lukken dankzij de extra oefeningen).</li>
+</ul>
+
+![New Orleans nummer](/assets/img/09-no/New-Orleans-song.svg "New Orleans nummer"){: .width-svg}{: .mtb}
+
+##### Basisnoten van het nummers
+
+Meestal bestaat een compositie uit belangrijke noten (doelnoten) en opvulling.
+
+Hieronder staat een versie van het nummer met enkel nog de essentiële noten. Net genoeg om te horen welk nummer het is. Het kan eventueel nog verder gereduceerd worden, maar deze versie gaan we als ons vertrek beschouwen. Van hieruit gaan we zelf de noten opvullen met eigen materiaal.
+
+![New Orleans stripped song](/assets/img/09-no/New-Orleans-song-stripped.svg "New Orleans stripped"){: .width-svg}{: .mtb}
 
 
 <div class="verdere-studie">

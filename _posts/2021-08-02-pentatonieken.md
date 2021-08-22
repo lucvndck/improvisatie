@@ -57,6 +57,16 @@ Als de blazers niet spelen kan je gemakkelijk met de pentatoniek experimenteren.
 
 ![You can't hold me down](/assets/img/02-pe/IB-pentatonieken-YCHMD-voorbeeld-solo.svg "You can't hold me down voorbeeld solo"){: .height-svg-hoger}
 
+##### Technische oefeningen - instuderen van de pentatoniek
+
+![pentatoniek studie 1](/assets/img/02-pe/IB-pentatonieken-YCHMD-pent-oef1.svg "pentatoniek oefening 1 "){: .width-svg-wider}
+
+![pentatoniek studie 2](/assets/img/02-pe/IB-pentatonieken-YCHMD-pent-oef2.svg "pentatoniek oefening 2 "){: .width-svg-wider}
+
+##### Technische oefeningen - instuderen van de pentatoniek - Gevorderden
+
+![pentatoniek studie gevorderden](/assets/img/02-pe/IB-pentatonieken-YCHMD-pent-oef-gevord.svg "pentatoniek oefening voor gevorderden "){: .width-svg-wider}
+
 {% include extra-zoek-de-pentatoniek.html %}
 
 ### 2. Give me the night
