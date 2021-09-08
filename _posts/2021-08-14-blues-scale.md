@@ -43,9 +43,27 @@ Raak je de maat kwijt of ben je te ver afgedwaald en je weet niet meer hoe het v
 
 De riff duurt 2 maten, maar je kan dit verlengen naar 4 maten. Dus speel je enkel het begin van de riff en vul je de rest van de 4 maten.
 
+##### Andere voorbeelden waarmee je deze oefening kan doen:
+
+“Heartbreaker” - Led Zeppelin (met A blues-scale)
+
+![Blues Scale oefening](/assets/img/13-bs/IB-Blues-scale-heartbreaker.svg "Blues-scale oefening ander voorbeeld"){: .width-svg-wider}
+
+“Moby Dick” - Led Zeppelin (met D blues-scale)
+
+![Blues Scale oefening](/assets/img/13-bs/IB-Blues-scale-mobydick.svg "Blues-scale oefening ander voorbeeld 2"){: .width-svg-wider}
+
 ### De Bluesy Rubato Ending
 
-Heel typisch in Rock, Jazz, Blues: Het laatste thema van het nummer is gespeeld en de muzikanten moeten nog even laten horen wat er allemaal kan op hun instrument.
+In Blues, rock en jazz wordt een nummer al wel eens geëindigd in een bluesy, rubato, geïmproviseerde  brei van noten (zeker in live-opnamen). Dat kan gaan van een losgeslagen “gauw nog even alles laten horen wat ik kan” tot een verfijnd uitdoven en ondersteunen van het laatste akkoord.
+
+Hieronder zijn de laatste 4 maten van een blues “Bag’s Groove”.
+
+![Blues Scale rubato einde](/assets/img/13-bs/IB-Blues-scale-bagsgroove.svg "Blues-scale oefening rubato einde"){: .width-svg-wider}
+
+Speel dit (vertraag wat tegen het einde) en improviseer er vlak achter een bluesy lijn met de bluesscale.
+
+Je kan eventueel al vanaf de de voorlaatste noot met je rubato, bluesy einde beginnen.
 
 
 

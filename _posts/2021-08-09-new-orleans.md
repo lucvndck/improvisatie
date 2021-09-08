@@ -24,7 +24,7 @@ Leer het nummer zoals het uitgeschreven staat:
 
 <ul class="disc">
   <li>speel het nummer volgens de partituur</li>
-  <li>probeer het van buiten te spelen (lukt dit nog niet, dan het verderop in de les wel lukken dankzij de extra oefeningen).</li>
+  <li>probeer het van buiten te spelen (Is dit moeilijk? Geen nood, het verloop van deze oefening zal er voor zorgen dat je het beter en beter kan).</li>
 </ul>
 
 ![New Orleans nummer](/assets/img/09-no/New-Orleans-song.svg "New Orleans nummer"){: .width-svg}{: .mtb}
@@ -33,9 +33,28 @@ Leer het nummer zoals het uitgeschreven staat:
 
 Meestal bestaat een compositie uit belangrijke noten (doelnoten) en opvulling.
 
-Hieronder staat een versie van het nummer met enkel nog de essentiële noten. Net genoeg om te horen welk nummer het is. Het kan eventueel nog verder gereduceerd worden (luister naar de versie van Ella Fitzgerald), maar deze versie gaan we als ons vertrek beschouwen. Van hieruit gaan we zelf de noten opvullen met eigen materiaal.
+Hieronder staat een versie van het nummer met enkel nog de essentiële noten. Net genoeg om te horen welk nummer het is. Het kan eventueel nog verder gereduceerd worden (luister naar de versie van Ella Fitzgerald), maar de versie hieronder gaan we als ons vertrek beschouwen. Van hieruit gaan we zelf de noten opvullen met eigen materiaal.
 
 ![New Orleans stripped song](/assets/img/09-no/New-Orleans-song-stripped.svg "New Orleans stripped"){: .width-svg}{: .mtb}
+
+##### Opvullen
+
+Luister om te beginnen naar één of meerdere versies van het nummer.
+
+"Bill Baileys" staat in de toonaard van F. (het nummer eindigt ook met een f)
+
+![New Orleans scale F](/assets/img/09-no/New-Orleans-tl-F.svg "New Orleans scale F"){: .height-svg}
+
+Speel deze scale en leer hem vanbuiten.
+
+Speel nu terug de partituur met de basisnoten en voeg hier en daar wat noten toe.
+
+Tips:
+<ul class="disc">
+  <li>Doe dit van maat 1 naar maat 2, maat 3 naar maat 4, ...</li>
+  <li></li>
+</ul>
+
 
 
 <div class="verdere-studie">
