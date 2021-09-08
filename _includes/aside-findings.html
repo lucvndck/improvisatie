@@ -1,0 +1,12 @@
+<aside>
+	<hr>
+	<h3>Index Findings</h3>
+	<hr>
+	<ul>
+	  {% for finding in site.findings reversed %}
+	    <li>
+	      <h4><a href="{{ finding.url }}" class="black">{{ finding.title }}</a></h4>
+	    </li>
+	  {% endfor %}
+	</ul>
+</aside>

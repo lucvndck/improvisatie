@@ -6,6 +6,11 @@ collections:
   posts:
     title: posts
     output: true
+  findings:
+    output: true
+  extra_impro:
+    output: true
+
 defaults:
   -
     scope:
@@ -15,5 +20,17 @@ defaults:
       layout: "post"
       author: "Luc"
       category: "improvisatie-oefeningen"
+  -
+    scope:
+      path: ""
+      type: "findings"
+    values:
+      layout: "findings"
+  -
+    scope:
+      path: ""
+      type: "extra_impro"
+    values:
+      layout: "extra-impro"
 
 permalink: /:categories/:year/:title

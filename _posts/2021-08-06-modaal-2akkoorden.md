@@ -62,8 +62,8 @@ Speel nu eeen solo waarbij je de spanningsnoten het meeste aandacht geeft. (eind
 <div class="verdere-studie">
   <h1 class="small-h2">Meer studie-materiaal</h1>
   <ul class="two-column">
-    <li>studie1</li>
-    <li>studie2</li>
+    <li>Contemplation - McCoy Tyner</li>
+    <li>Little Sunflower - Freddie Hubbard</li>
     <li>studie3</li>
     <li>studie4</li>
   </ul>

@@ -1,0 +1,15 @@
+---
+layout: findings
+title: Lessen
+---
+<h1 class="small-h2">Findings</h1>
+
+<ul class="posts">
+  {% for finding in site.findings reversed %}
+    <li>
+      <h2><a href="{{ finding.url }}" class="black">{{ finding.title }}</a></h2>
+      <p>{{ finding.description }}</p>
+    </li>
+	<hr>
+  {% endfor %}
+</ul>
