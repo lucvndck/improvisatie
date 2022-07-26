@@ -44,8 +44,8 @@ Als de blazers niet spelen kan je gemakkelijk met de pentatoniek experimenteren.
 ##### OEFENING 2: ZELFDE, MAAR DAN GESTRUCTUREERD
 
 <ul class="disc">
-  <li>Speel ritmisch met de f</li>
-  <li>Speel met eb en de f. Gebruik de eb om weg te gaan van de tonica en er terug naartoe te gaan. Zie voorbeeld:</li>
+  <li>Speel ritmisch met de f.</li>
+  <li>Speel met eb en f. Gebruik de eb om weg te gaan van de tonica en er terug naartoe te gaan. Zie voorbeeld:</li>
 </ul>
 
 ![You can't hold me down](/assets/img/02-pe/IB-pentatonieken-YCHMD-f-eb.svg "You can't hold me down solo met f en eb"){: .height-svg-hoogst}
@@ -71,19 +71,19 @@ Als de blazers niet spelen kan je gemakkelijk met de pentatoniek experimenteren.
 
 ### 2. Give me the night
 
-Speel de pentatnoniek over het ganse register van je instrument.
+Speel de pentatoniek over het ganse register van je instrument.
 
 ![It just happens that way](/assets/img/02-pe/IB-pentatonieken-scale.svg "It just happens that way scale"){: .height-svg-hoogst}
 
 Leer hem van buiten.
 
-Zet de muziek op en speel wat met de pentatoniek. Luister aandachtig naar elke noot.
+Zet de muziek op en speel wat met deze pentatoniek. Luister aandachtig naar elke noot.
 
 Hoe past die op de begeleiding? (speel niet te snel. Veel noten spelen is vaak een camouflage van onkunde)
 
 Zoek de tonica. Is dit werkelijk de eerste noot van de pentatoniek?
 
-Probeer nu melodietjes te maken.
+Probeer nu melodieën te maken.
 
 ##### Specifieke oefeningen
 
@@ -125,7 +125,7 @@ De scale (pentatoniek)
 <div class="verdere-studie">
   <h1 class="small-h2">Meer studie-materiaal</h1>
   <ul class="two-column">
-    <li>studie1</li>
+    <li>studie1 It just happens that way</li>
     <li>studie2</li>
     <li>studie3</li>
     <li>studie4</li>

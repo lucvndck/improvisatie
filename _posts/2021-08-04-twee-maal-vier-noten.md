@@ -21,12 +21,12 @@ description: afwisselen tussen 2 gemakkelijke scales
 
 Leer eerst de twee verschillende scales van 4 noten.
 
-Leer elke scale apart! Zorg dat je ze vanbuiten kan spelen.
+Leer elke scale apart! Zorg dat je ze vanbuiten kan spelen. (Wees geduldig, dit kost tijd!)
 
 ![2x4 noten F](/assets/img/05-2x/IB-IM-2x4-noten-F-scale.svg){: .height-svg }![2x4 noten Ab](/assets/img/05-2x/IB-IM-2x4-noten-Ab-scale.svg){: .height-svg }
 
 
-1 . Begin met de noten eerst te spelen en er daarna vrij met te spelen. Daarna leer je de andere scale.
+1 . Begin met de noten eerst gewoon te spelen en er daarna langzaamaan vrijer met te spelen. Daarna leer je de andere scale.
 
 2 . Speel rubato met de eerste scale en ga dan over naar de 2de scale:
 
@@ -43,7 +43,7 @@ Je speelt de oefening eerst in 4de noten afwisselend met je leraar …
 ### Oefening bis
 
 De 2 scales zijn erg verschillend op één noot na. Daar gaan we gebruik van maken.
-Hieronder staan mooie, en vooral duidelijk, overgangen van de éne scale naar de andere.
+Hieronder staan mooie, en vooral duidelijk, overgangen van de éne scale naar de andere. Bijvoorbeeld: de g in de F-scale leidt mooi naar de ab in de Ab-scale.
 
 ![2x4 noten F](/assets/img/05-2x/IB-IM-2x4-noten-overgangen.svg){: .width-svg }
 
@@ -51,7 +51,9 @@ Op deze manier kan je dit gebruiken:
 
 ![2x4 noten overgang verschillend](/assets/img/05-2x/IB-IM-2x4-noten-overgang-verschillend.svg){: .height-svg-hoogst }
 
-Er is ook één noot die in beide scales voorkomt.
+<br>
+
+Er is ook één noot die in beide scales voorkomt. Hiermee maak je een oefening die tegengesteld is aan de vorige. Je werkt in dit geval met de overeenkomsten in plaats van de verschillen tussen de scales.
 
 ![2x4 noten zelfde F](/assets/img/05-2x/IB-IM-2x4-noten-zelfde-noot.svg){: .height-svg }
 
