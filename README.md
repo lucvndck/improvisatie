@@ -13,6 +13,14 @@ De startpagina van mijn "work in progress"-boek over improvisatie.
 - Ritmes --> PAGE
 - Uitleg ivm ontleden van "standards" --> PAGE
 
+**Gebruik svg**, dat is veel duidelijker dan jpg! Ik heb volgende classes toegevoegd om ze mooi te stylen: .height-svg .width-svg
+
+Jekyll gebruikt Kramdown, hierdoor kan je classes toevoegen aan markdown. Zo:
+
+``` markdown
+{: .class }
+```
+
 <footer>
 	<div class="todo">
 		ToDo's

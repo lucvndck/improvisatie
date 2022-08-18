@@ -21,11 +21,11 @@ description: ... is meer dan een pentatoniek
 
 De blues-scale van D&#58;
 
-![Blues Scale](/assets/img/13-bs/IB-Blues-scale-scale.svg "Blues-scale scale"){: .height-svg-hoger}
+![Blues Scale](/assets/img/14-bs/IB-Blues-scale-scale.svg "Blues-scale scale"){: .height-svg-hoger}
 
 Een fantastische riff&#58; "Sunshine of Your Love" van Cream
 
-![Blues riff](/assets/img/13-bs/IB-Blues-scale-cream-riff.svg "Blues-scale riff"){: .height-svg}
+![Blues riff](/assets/img/14-bs/IB-Blues-scale-cream-riff.svg "Blues-scale riff"){: .height-svg}
 
 ##### De oefening
 
@@ -37,7 +37,7 @@ Raak je de maat kwijt of ben je te ver afgedwaald en je weet niet meer hoe het v
 
 <br>
 
-![Blues Scale oefening](/assets/img/13-bs/IB-Blues-scale-oefening.svg "Blues-scale oefening"){: .width-svg-wider}
+![Blues Scale oefening](/assets/img/14-bs/IB-Blues-scale-oefening.svg "Blues-scale oefening"){: .width-svg-wider}
 
 ##### Extra oefening
 
@@ -47,11 +47,11 @@ De riff duurt 2 maten, maar je kan dit verlengen naar 4 maten. Dus speel je enke
 
 “Heartbreaker” - Led Zeppelin (met A blues-scale)
 
-![Blues Scale oefening](/assets/img/13-bs/IB-Blues-scale-heartbreaker.svg "Blues-scale oefening ander voorbeeld"){: .width-svg-wider}
+![Blues Scale oefening](/assets/img/14-bs/IB-Blues-scale-heartbreaker.svg "Blues-scale oefening ander voorbeeld"){: .width-svg-wider}
 
 “Moby Dick” - Led Zeppelin (met D blues-scale)
 
-![Blues Scale oefening](/assets/img/13-bs/IB-Blues-scale-mobydick.svg "Blues-scale oefening ander voorbeeld 2"){: .width-svg-wider}
+![Blues Scale oefening](/assets/img/14-bs/IB-Blues-scale-mobydick.svg "Blues-scale oefening ander voorbeeld 2"){: .width-svg-wider}
 
 ### De Bluesy Rubato Ending
 
@@ -59,7 +59,7 @@ In Blues, rock en jazz wordt een nummer al wel eens geëindigd in een bluesy, ru
 
 Hieronder zijn de laatste 4 maten van een blues “Bag’s Groove”.
 
-![Blues Scale rubato einde](/assets/img/13-bs/IB-Blues-scale-bagsgroove.svg "Blues-scale oefening rubato einde"){: .width-svg-wider}
+![Blues Scale rubato einde](/assets/img/14-bs/IB-Blues-scale-bagsgroove.svg "Blues-scale oefening rubato einde"){: .width-svg-wider}
 
 Speel dit (vertraag wat tegen het einde) en improviseer er vlak achter een bluesy lijn met de bluesscale.
 
